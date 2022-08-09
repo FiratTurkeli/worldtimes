@@ -1,6 +1,17 @@
 # world_times
 
-A new Flutter project.
+An application that shows the clocks of world cities and whose design is followed through figma
+
+
+Splash screen
+Login Screen: Timezone list (to be parsed from API as shown in design)
+Date and time information of the selected timezone
+Multi-theme support: It will open with the device's theme
+
+  google_fonts:
+  dio:
+  provider:
+  shared_preferences: 
 
 ## Getting Started
 
