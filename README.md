@@ -4,7 +4,7 @@ An application that shows the clocks of world cities and whose design is followe
 
 
 Splash screen
-Login Screen: Timezone list (to be parsed from API as shown in design)
+Login Screen: Timezone list (parsed from API as shown in design)
 Date and time information of the selected timezone
 Multi-theme support: It will open with the device's theme
 
